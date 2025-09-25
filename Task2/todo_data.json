@@ -1,0 +1,13 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "description": "First task",
+      "category": "Personal",
+      "priority": "High",
+      "completed": false,
+      "created_at": "2025-09-25T22:23:18.580279",
+      "due_date": null
+    }
+  ]
+}
